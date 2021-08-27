@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrii Kovalov @BorodaUA
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning QA, pytest, PageObject, Selenium WebDriver
+- 🌱 I’m currently Django, DRF, pytest.
 
 <!---
 BorodaUA/BorodaUA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
