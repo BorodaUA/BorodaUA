@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrii Kovalov aka @BorodaUA
 - 🐍 I’m interested in Python
-- 📚 Currently I'm learning flask, sqlalchemy, unittest.
+- 📚 Currently I'm learning fastapi, sqlalchemy, pytest.
 
 <!---
 BorodaUA/BorodaUA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
